@@ -31,7 +31,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/berg.page\/main.json#start_lounge"
+                 "value":"\/_\/global\/world.di.c3voc.de\/maps\/main.json#start_lounge"
                 }],
          "type":"tilelayer",
          "visible":true,
