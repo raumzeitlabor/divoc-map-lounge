@@ -179,7 +179,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"timetable.html"
+                 "value":"https:\/\/data.tabascoeye.de\/maptest\/timetable.html"
                 }],
          "type":"tilelayer",
          "visible":true,
