@@ -179,7 +179,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/data.tabascoeye.de\/maptest\/timetable.html"
+                 "value":"https:\/\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/timetable.html"
                 }],
          "type":"tilelayer",
          "visible":true,
