@@ -179,7 +179,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/timetable.html"
+                 "value":"https:\/\/data.tabascoeye.de\/maptest\/QuartierLapin\/timetable.html"
                 }],
          "type":"tilelayer",
          "visible":true,
