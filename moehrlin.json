@@ -190,14 +190,14 @@
                  "value":"https:\/\/excalidraw.com\/#room=deadfefe234205baba23,glkjLKGUUhiubbfkaffe12"
                 }, 
                 {
-                 "name":"openWebsiteMessage",
-                 "type":"string",
-                 "value":"Let's draw together! press SPACE (or touch here) to start"
-                }, 
-                {
                  "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
+                }, 
+                {
+                 "name":"openWebsiteTriggerMessage",
+                 "type":"string",
+                 "value":"Let's draw together! press SPACE (or touch here) to start"
                 }],
          "type":"tilelayer",
          "visible":true,
