@@ -117,12 +117,6 @@
          "id":26,
          "name":"exit_poc",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"exitUrl",
-                 "type":"string",
-                 "value":"\/_\/global\/eventphone.github.io\/rc3-poc\/main.json"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
